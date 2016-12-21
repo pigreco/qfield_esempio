@@ -4,6 +4,7 @@ CREATE TABLE "pti_monumenti"
 "data_rilievo" date,
 "nome_monumento" text,
 "link_foto" text
+"note" text
 )
 
 -- aggiungo colonna geometrica
